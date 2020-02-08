@@ -1,1 +1,1 @@
-# -Anticipating-Chicago-s-Demographic-Trends
+The R Script and files in this repository was used to analyze the different demographics, income distribution, and population changes by community area in Chicago. The analysis can be viewed at https://www.tammanyball.com/2020/02/anticipating-chicagos-demographic-trends.html
